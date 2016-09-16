@@ -2,11 +2,11 @@
 
 ### 球球大作战网页版
 
-### Attention!
+### Attention
 
 ES6实现, 部分浏览器不支持。建议使用谷歌浏览器。
 
-### Play Now! 
+### Play Now
 
 **[Battle of Balls]()**
 
