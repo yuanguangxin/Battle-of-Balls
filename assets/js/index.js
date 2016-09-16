@@ -2,7 +2,7 @@ $(function () {
     const INIT_SIZE = 60;           // 玩家小球初始大小
     const INIT_SPEED = 0.082;       // 小球初始速度
     const INIT_COLOR = 5;           // 小球默认颜色下标
-    const FOODS_NUM =100;            // 食物默认数量
+    const FOODS_NUM =100;           // 食物默认数量
     const BOMB_NUM = 5;             // 炸弹默认数量
     const IS_SAME_SIZE = false;     // 食物/炸弹大小是否固定(false表示大小随机)
     const DEFAULT_FOOD_SIZE = 15;   // 食物默认大小(IS_SAME_SIZE为true时有效)
