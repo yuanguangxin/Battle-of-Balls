@@ -225,6 +225,9 @@ $(function () {
     $(document).on("mousemove",function () {
         if(isDie==false){
             ball.move();
+        }else{
+            alert("You Die.");
+            $(document).unbind();
         }
     });
 });
