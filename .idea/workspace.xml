@@ -66,7 +66,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -81,8 +83,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -569,7 +569,8 @@
       <workItem from="1484453938636" duration="161000" />
       <workItem from="1485087787202" duration="90000" />
       <workItem from="1485531980461" duration="549000" />
-      <workItem from="1486199155915" duration="18000" />
+      <workItem from="1486199155915" duration="49000" />
+      <workItem from="1486605062194" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="update README.md">
       <created>1474040178192</created>
@@ -879,11 +880,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485532640868</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="update">
+      <created>1486199184757</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1486199184757</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8837000" />
+    <option name="totallyTimeSpent" value="8876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
